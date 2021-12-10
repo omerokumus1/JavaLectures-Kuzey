@@ -1,12 +1,14 @@
+package Exercises;
+
 import java.util.Scanner;
 
 public class BMI {
     public static void main(String[] args) {
         /*
-        BMI < 18.5 Underweight
-        18.5 ≤ BMI < 25.0 Normal
-        25.0 ≤ BMI < 30.0 Overweight
-        30.0 ≤ BMI Obese
+        Exercises.BMI < 18.5 Underweight
+        18.5 ≤ Exercises.BMI < 25.0 Normal
+        25.0 ≤ Exercises.BMI < 30.0 Overweight
+        30.0 ≤ Exercises.BMI Obese
         bmi = weight / (height*height)
          */
         /* TODO:
