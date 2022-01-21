@@ -4,7 +4,7 @@ package Ch6_Methods;
 // HW1: Write GCD with methods
 // HW2: Find perfect numbers up to 100k, use methods
 
-public class MethodsIntro {
+public class   MethodsIntro {
     public static void main(String[] args) {
         /** 1. Reusability increases
          *  2. Code maintainability increases
